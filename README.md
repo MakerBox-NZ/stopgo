@@ -1,5 +1,9 @@
 # StopGo
 
+This project is being rewritten in Java to improve performance and platform support.
+You can follow our progress on this project at https://github.com/MakerBox-NZ/stopgo2
+
+## About Stopgo
 StopGo is a stop-motion animation application. It's goal is to be a
 simple and direct way to take a series of photographs, with
 onion-skinning, to create stop-motion animation.
